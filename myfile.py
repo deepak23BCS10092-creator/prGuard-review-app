@@ -10,5 +10,5 @@ def multiply(a, b):
 def subtract(a, b):
     return a - b
 
-def return_b(a, b):
-    return b
+def reminder(a, b):
+    return a%b
