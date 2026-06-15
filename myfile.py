@@ -12,3 +12,6 @@ def subtract(a, b):
 
 def return_b_mod(a, b):
     return b%a
+
+def return_a_mod(a, b):
+    return a%b
