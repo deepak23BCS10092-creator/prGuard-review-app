@@ -11,4 +11,4 @@ def subtract(a, b):
     return a - b
 
 def reminder(a, b):
-    return a%b
+    return b%a
